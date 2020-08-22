@@ -1,14 +1,17 @@
 [
   { 
    "archive_id":"1",
-   "title":"Philip Trim Contractors"
+   "title":"Philip Trim Contractors",
+   "status":"visible"
   },
   { 
    "archive_id":"2",
-   "title":"Purbeck Farm Services"
+   "title":"Purbeck Farm Services",
+   "status":"visible"
   },
   { 
    "archive_id":"3",
-   "title":"Lutton Farms"
+   "title":"Lutton Farms",
+   "status":"hidden"
   }
 ]
