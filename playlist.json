@@ -162,7 +162,7 @@
      "archive_id":"4"
   },
    {
-    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Farming+Videos+-+Tractor+Convoy++-+Kingston+Maurward+College+Tractor+Run+2019+-+Part+%232.mp4",
+    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Farming+Videos+-+Tractor+Convoy+-+Purbeck+Coast+Tractor+Run+2019+-+Part+%232.mp4",
     "title": "Purbeck Coast Tractor Run 2019 - Part #2",
     "ytid": "H6mR_xE_B5E",
      "archive_id":"4"
@@ -178,6 +178,13 @@
     "title": "Purbeck Coast Tractor Run 2019 - Part #4",
     "ytid": "v_wfrnaTQN8",
      "archive_id":"4"
-  }
-  
+  }   
+   ,
+   {
+    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Fendt+Katana+65+On+The+WholeCrop.mp4",
+    "title": "Chandlers Contracting - Fendt Katana 65 On The WholeCrop",
+    "ytid": "pUN-V-mjrog",
+     "archive_id":"6"
+  } 
+ 
 ]
