@@ -75,17 +75,26 @@
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Farming+Videos+-+Tractors+at+Work++-+Girls+Driving+Tractors.mp4",
     "title": "Girls Driving Tractors",
     "ytid": "Fibp6blzABc"
-  },{
+  },
+   {
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Tractors+at+Work+-+Ben+Dando+Mowing+Silage+Grass+with+John+Deere+6190R+and+Krone+Easy+Cut.mp4",
     "title": "Mowing Silage Grass with John Deere 6190R",
     "ytid": "C4jOxo0vre4",
      "archive_id":"2"
-  }, {
+  }, 
+   {
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/chandlers_appres.mp4",
     "title": "Chandlers Silaging",
     "ytid": "3BJyqVC8Meg",
      "archive_id":"6"
-  },{
+  }, 
+   {
+    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/2+Fendts+Ploughing!.mp4",
+    "title": "Chandlers Contracting - Two Fendts Ploughing",
+    "ytid": "_wFZIJI9SCA",
+     "archive_id":"6"
+  } ,
+   {
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/pfb_swalland2020_appres.mp4",
     "title": "Swalland Farm Silage 2020",
     "ytid": "vEIzLRQJZXI",
@@ -137,6 +146,12 @@
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Wheat+Harvest+2012.New+Holland+CX8030.mp4",
     "title": "Wheat Harvest 2012.New Holland CX8030",
     "ytid": "shOMKAq7GlY"
+  } , 
+   {
+    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Fendt+Katana+65+On+The+WholeCrop.mp4",
+    "title": "Chandlers Contracting - Fendt Katana 65 On The WholeCrop",
+    "ytid": "pUN-V-mjrog",
+     "archive_id":"6"
   } ,
  {
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Farming+Videos+-+Tractors+at+Work+-+Krone+BiG+Pack+Balers+-+Andrew+Hallett+Farm+Contractors.mp4",
@@ -178,23 +193,17 @@
     "title": "Purbeck Coast Tractor Run 2019 - Part #4",
     "ytid": "v_wfrnaTQN8",
      "archive_id":"4"
-  }   
-   ,
-   {
-    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Fendt+Katana+65+On+The+WholeCrop.mp4",
-    "title": "Chandlers Contracting - Fendt Katana 65 On The WholeCrop",
-    "ytid": "pUN-V-mjrog",
-     "archive_id":"6"
-  } ,{
+  },   
+  {
     "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/Silage+2018.+Chandlers+Mowing+With+2+Fendts.mp4",
     "title": "Chandlers Contracting - Teo Fendts Mowing",
     "ytid": "SxQzopgi_mA",
      "archive_id":"6"
-  } ,{
-    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/2+Fendts+Ploughing!.mp4",
-    "title": "Chandlers Contracting - Two Fendts Ploughing",
-    "ytid": "_wFZIJI9SCA",
-     "archive_id":"6"
-  } 
+  },{
+    "video_url": "https://farmtube-videos.s3.eu-west-2.amazonaws.com/%F0%9F%9A%9C+Bartletts+Fendt+936+%F0%9F%9A%9C+Buckraking.+Pure+Power+%F0%9F%92%AA%F0%9F%92%AA.mp4",
+    "title": "Bartletts Contractors Ltd - Fendt 936 🚜 Buckraking. Pure Power 💪💪",
+    "ytid": "hBE7uhBSjp0",
+     "archive_id":"8"
+  }
  
 ]
